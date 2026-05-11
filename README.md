@@ -80,5 +80,28 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
+
+
+# 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ChadithDissanayaka&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChadithDissanayaka&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadithDissanayaka&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ChadithDissanayaka&theme=radical&rank=-All&margin-w=15&margin-h=15)
+
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChadithDissanayaka&theme=react-dark&hide_border=true&area=true)
 
 </div>
